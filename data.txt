@@ -1,0 +1,12 @@
+<h1>Introducing Android Q Beta</h1>
+
+<p>In 2019, mobile innovation is stronger than ever, with new technologies from 5G 
+to edge to edge displays and even foldable screens. Android is right at the center
+ of this innovation cycle, and thanks to the broad ecosystem of partners across billions 
+ of devices, Android's helping push the boundaries of hardware and software bringing new 
+ experiences and capabilities to users.As the mobile ecosystem evolves, Android is focused
+  on helping users take advantage of the latest innovations, while making sure users' security 
+  and privacy are always a top priority. Building on top of efforts like Google Play Protect and 
+  runtime permissions, Android Q brings a number of additional privacy and security features for 
+  users, as well as enhancements for foldables, new APIs for connectivity, new media codecs and 
+  camera capabilities, NNAPI extensions, Vulkan 1.1 support, faster app startup, and more.</p>

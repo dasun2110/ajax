@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+   
+    <title>Document</title>
+
+    <script src="jquery-3.3.1.min.js"></script>
+
+  
+
+    <script>
+    
+        $(document).ready(function(){
+            $("#btn").click(function(){
+                $("#test").load("data.txt", {
+                    Name: "Dasun",
+                    Lastname:"Tharaka"
+                },  function(){
+                    alert("Hello Users please Allow!!");
+                });
+            });
+            
+        });
+    
+    </script>
+
+</head>
+<body id="test">
+    
+    <div>
+        <h1>What about android Q</h1>
+       <p>android Q is a laters android mobile os powerd by Google!!</p> 
+    </div>
+    <button id="btn">Click more details!!</button>
+</body>
+</html>
